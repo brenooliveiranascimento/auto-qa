@@ -1,0 +1,11 @@
+node_modules/
+qa/node_modules/
+qa/.env
+qa/.auth/
+qa/results/
+qa/test-results/
+qa/playwright-report/
+evidence/**/*.png
+evidence/**/*.webm
+evidence/**/*.zip
+.DS_Store
